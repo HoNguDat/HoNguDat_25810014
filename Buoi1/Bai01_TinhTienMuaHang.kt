@@ -1,6 +1,6 @@
 package com.example.buoi1
 
-
+//Ho Ngu Dat - 25810014
 fun main() {
     val soLuong: Int = 5
     val donGia: Double = 20000.0
